@@ -1,0 +1,11 @@
+[build]
+  functions = "./build/api"
+  publish = "./build/dist"
+  command = "npm run build"
+
+# The following redirect is intended for use with most SPA's that handles routing internally.
+[[redirects]]
+  from = "/vote"
+  to = "/#/vote"
+  status = 200
+  force = true # Ensure that we always redirect
