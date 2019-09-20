@@ -5,7 +5,7 @@
 I displayed this url on a large monitor to view the live results:
 https://babyreveal.netlify.com/#/
 
-As guests arrived, they scanned the QR code on their phone to visit this url on their phone:
+As guests arrived, they scanned the QR code to visit this url on their phone:
 https://babyreveal.netlify.com/#/vote
 
 Once the gender reveal happened, I went to this url to change the display to "It's a boy!"
