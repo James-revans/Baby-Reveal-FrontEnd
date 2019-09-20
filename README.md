@@ -8,7 +8,7 @@ https://babyreveal.netlify.com/#/
 As guests arrived, they scanned the QR code to visit this url on their phone:
 https://babyreveal.netlify.com/#/vote
 
-Once the gender reveal happened, I went to this url to change the display to "It's a boy!"
+Once the gender reveal happened, I went to this url to change the display to "It's a boy!" or "It's a girl! depending on which it was.
 https://babyreveal.netlify.com/#/controller
 
 
